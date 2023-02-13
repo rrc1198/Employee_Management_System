@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+ .main{
+	
+	text-align: center;
+	margin-left: 20px;
+	padding: 10px;
+	 border:solid;
+    width: 300px;
+	height: 350px;
+	background-color: rgb(6, 82, 82);
+	border-radius: 20px;
+	border:solid;
+}
